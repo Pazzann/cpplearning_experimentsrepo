@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.29)
-project(algorythms_and_datastructures)
+project(cpplearning_experimentsrepo)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(algorythms_and_datastructures main.cpp experiments/Calculator.cpp
+add_executable(cpplearning_experimentsrepo main.cpp experiments/Calculator.cpp
         experiments/algorythms.cpp)
