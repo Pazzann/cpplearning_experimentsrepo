@@ -15,6 +15,9 @@ namespace custom_shit{
     void bfs();
     void dfs();
 
+
+
+
     void printArr(std::vector<int> array);
 
     struct Node{
